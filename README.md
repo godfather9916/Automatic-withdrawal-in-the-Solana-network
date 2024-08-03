@@ -3,6 +3,6 @@ Monitors incoming transactions of your database and initiates sol withdrawal to 
 
 - Monitors incoming transactions of your database and initiates sol withdrawal to your wallets
 - Allows you to set up your own nodes
-- Full open source sources (Python)
+- Full open source source (Python)
 
 - **Contact: [@rashtug0](https://t.me/rashtug0)**
